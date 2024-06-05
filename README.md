@@ -1,1 +1,1 @@
-This landing page project.
+This is landing page project.
